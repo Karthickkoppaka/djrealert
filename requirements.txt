@@ -1,0 +1,17 @@
+asgiref==3.5.2
+asyncio==3.4.3
+certifi==2022.5.18.1
+chardet==4.0.0
+Django==4.0.5
+djangorestframework==3.13.1
+fyers-apiv2==2.0.5
+gunicorn==20.1.0
+idna==2.10
+pytz==2022.1
+requests==2.25.1
+sqlparse==0.4.2
+tornado==6.1
+tzdata==2022.1
+urllib3==1.26.9
+websocket-client==1.2.1
+websockets==8.1
